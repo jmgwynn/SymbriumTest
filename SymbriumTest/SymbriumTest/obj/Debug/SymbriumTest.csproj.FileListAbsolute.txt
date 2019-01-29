@@ -1,0 +1,10 @@
+C:\Users\Michael\source\repos\SymbriumTest\SymbriumTest\bin\Debug\SymbriumTest.exe.config
+C:\Users\Michael\source\repos\SymbriumTest\SymbriumTest\bin\Debug\SymbriumTest.exe
+C:\Users\Michael\source\repos\SymbriumTest\SymbriumTest\bin\Debug\SymbriumTest.pdb
+C:\Users\Michael\source\repos\SymbriumTest\SymbriumTest\bin\Debug\System.Data.SQLite.dll
+C:\Users\Michael\source\repos\SymbriumTest\SymbriumTest\bin\Debug\System.Data.SQLite.xml
+C:\Users\Michael\source\repos\SymbriumTest\SymbriumTest\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Michael\source\repos\SymbriumTest\SymbriumTest\obj\Debug\SymbriumTest.csprojResolveAssemblyReference.cache
+C:\Users\Michael\source\repos\SymbriumTest\SymbriumTest\obj\Debug\SymbriumTest.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\SymbriumTest\SymbriumTest\obj\Debug\SymbriumTest.exe
+C:\Users\Michael\source\repos\SymbriumTest\SymbriumTest\obj\Debug\SymbriumTest.pdb
